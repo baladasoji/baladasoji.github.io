@@ -1,0 +1,9 @@
+{
+  "name": "Team Denmark",
+  "players": [
+    { "name": "Mikkel Hansen", "age": 24 },
+    { "name": "Lars Jensen", "age": 27 },
+    { "name": "Jens Nielsen", "age": 22 },
+    { "name": "Peter Madsen", "age": 25 }
+  ]
+}

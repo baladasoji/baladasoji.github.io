@@ -1,0 +1,9 @@
+{
+  "name": "Team India",
+  "players": [
+    { "name": "Ravi Kumar", "age": 24 },
+    { "name": "Amit Sharma", "age": 27 },
+    { "name": "Vijay Singh", "age": 22 },
+    { "name": "Rajesh Gupta", "age": 25 }
+  ]
+}

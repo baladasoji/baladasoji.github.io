@@ -1,0 +1,9 @@
+{
+  "name": "Team England",
+  "players": [
+    { "name": "John Smith", "age": 24 },
+    { "name": "James Johnson", "age": 27 },
+    { "name": "Robert Williams", "age": 22 },
+    { "name": "Michael Brown", "age": 25 }
+  ]
+}
