@@ -19,7 +19,7 @@
   --gn-blue: #5c88da;
   --gn-green: #2a7e5b;
   --gn-gold: #bd9b60;
-  --primary-color: var(--gn-orange);
+  --primary-color: var(--gn-charcoal);
   --secondary-color: var(--gn-dark-blue);
   --text-color: var(--gn-black);
 }
