@@ -11,7 +11,19 @@
   --white: #ffffff;
   --gray-light: #edebe9;
   --gray-medium: #8a8886;
+  --gn-orange: #ea7200;
+  --gn-black: #000000;
+  --gn-dark-blue: #253746;
+  --gn-warm-gray: #b6ada5;
+  --gh-charcoal: #382e2c;
+  --gn-blue: #5c88da;
+  --gn-green: #2a7e5b;
+  --gn-gold: #bd9b60;
+  --primary-color: var(--gn-orange);
+  --secondary-color: var(--gn-dark-blue);
+  --text-color: var(--gn-black);
 }
+
 
 section {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
